@@ -1,6 +1,6 @@
 export const PrivateRoutes = {
     LOGOUT:'/logout',
-    HOME:'/home',
+    HOME:'/',
     //INICIO
     PORTAL_GENERAL:'/',
 

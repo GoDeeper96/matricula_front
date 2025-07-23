@@ -9,7 +9,7 @@
     "lint": "eslint .",
     "preview": "vite preview"
   },
-   "dependencies": {
+  "dependencies": {
     "@fluentui/react": "^8.122.14",
     "@fluentui/react-charting": "^5.23.66",
     "@fluentui/react-charts": "^9.0.2",
@@ -19,14 +19,15 @@
     "@fluentui/react-nav-preview": "^0.12.0",
     "@fluentui/react-timepicker-compat": "^0.3.0",
     "@types/react-beautiful-dnd": "^13.1.8",
-    "axios": "^1.8.4",
+    "axios": "^1.10.0",
     "react": "^18.3.1",
     "react-beautiful-dnd": "^13.1.1",
     "react-dom": "^18.3.1",
     "react-grid-layout": "^1.5.1",
     "react-resizable": "^3.0.5",
     "react-router-dom": "^6.27.0",
-    "uuid": "^11.1.0"
+    "uuid": "^11.1.0",
+    "zustand": "^5.0.6"
   },
   "devDependencies": {
     "@eslint/js": "^9.21.0",
